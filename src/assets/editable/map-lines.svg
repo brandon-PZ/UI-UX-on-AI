@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180">
+  <title>Editable map line decoration</title>
+  <path id="connection-route" d="M24 122 C86 58 118 152 174 82 C224 20 245 112 296 48" fill="none" stroke="#2f6f82" stroke-width="2" stroke-dasharray="8 10" />
+  <g id="map-points" fill="#2f6f82">
+    <circle cx="38" cy="64" r="7" />
+    <circle cx="100" cy="96" r="7" />
+    <circle cx="162" cy="64" r="7" />
+    <circle cx="224" cy="96" r="7" />
+    <circle cx="286" cy="64" r="7" />
+  </g>
+</svg>

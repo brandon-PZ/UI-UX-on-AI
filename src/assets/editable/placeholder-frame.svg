@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160">
+  <title>Editable placeholder image frame</title>
+  <rect id="frame" x="10" y="10" width="220" height="140" rx="18" fill="#e8eef0" />
+  <path id="image-field" d="M20 118 L78 64 L112 98 L144 72 L220 130 L220 140 L20 140 Z" fill="#9db8c0" />
+  <circle id="light-dot" cx="178" cy="46" r="18" fill="#f8d976" />
+</svg>

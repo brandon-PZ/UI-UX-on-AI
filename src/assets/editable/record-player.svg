@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 132">
+  <title>Editable record player</title>
+  <rect id="player-base" x="16" y="28" width="128" height="88" rx="18" fill="#231d2b" />
+  <g id="record-disc">
+    <circle cx="70" cy="72" r="38" fill="#09090b" />
+    <circle cx="70" cy="72" r="14" fill="#315bff" />
+    <circle cx="70" cy="72" r="5" fill="#f4d08c" />
+  </g>
+  <g id="tone-arm">
+    <path d="M112 44 L124 52 L94 82" fill="none" stroke="#d9c4a4" stroke-width="6" stroke-linecap="round" />
+    <circle cx="124" cy="52" r="7" fill="#efe0c3" />
+  </g>
+</svg>

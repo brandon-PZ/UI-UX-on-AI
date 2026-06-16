@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 112">
+  <title>Editable black cat companion</title>
+  <g id="cat-tail-layer">
+    <path d="M86 68 C114 42 108 18 89 17 C75 16 72 29 79 37" fill="none" stroke="#09090b" stroke-width="12" stroke-linecap="round" />
+  </g>
+  <g id="cat-body-layer">
+    <ellipse cx="58" cy="75" rx="34" ry="27" fill="#09090b" />
+    <path d="M34 51 L42 24 L55 47 Z" fill="#09090b" />
+    <path d="M77 48 L92 23 L93 55 Z" fill="#09090b" />
+    <circle cx="64" cy="50" r="30" fill="#0c0c10" />
+    <ellipse id="left-eye" cx="52" cy="49" rx="6" ry="8" fill="#d9ff77" />
+    <ellipse id="right-eye" cx="75" cy="49" rx="6" ry="8" fill="#d9ff77" />
+  </g>
+</svg>
